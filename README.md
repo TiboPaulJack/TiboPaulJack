@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-I'm a web developper<br>I'm currently improving my Java skills<br><br>
+👨🏻‍💻 I'm a web developper<br>🚀 I'm currently improving my Java skills<br><br>
 
 
 # 💻 Tech Stack:
