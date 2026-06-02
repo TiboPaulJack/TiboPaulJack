@@ -2,6 +2,8 @@
 
 Dedicated and curious, effective on projects of any scale. I gravitate toward modern stacks and clean architecture, UI/UX awareness & creative coding.
 
+🚧 Currently building **[HumanRiderPlanner](https://humanriderplan.thibaultpauljack.uno/)** — a focused multi-day journey planner. Work in progress · roadmap coming soon.
+
 ---
 
 ## 🧰 Tech Stack
@@ -17,7 +19,7 @@ Dedicated and curious, effective on projects of any scale. I gravitate toward mo
 ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
 
 **Frontend**
 
@@ -64,10 +66,12 @@ Dedicated and curious, effective on projects of any scale. I gravitate toward mo
 
 ## 🚀 Selected Projects
 
-**HumanRiderPlanner** — A focused multi-day journey planner: route stages, rest stops, and trip logistics. Motorcycle-first for now, built to go broader.
+**[HumanRiderPlanner](https://humanriderplan.thibaultpauljack.uno/)** — A focused multi-day journey planner: route stages, rest stops, and trip logistics. Motorcycle-first for now, built to go broader.
 `NestJS / Fastify` API · `React / Vite` frontend · self-hosted routing engine · containerized deployment.
+🚧 In active development — [roadmap](#) coming soon.
 
 ---
 
 ## 📊 GitHub
+
 > Most of my work lives in private repositories.
